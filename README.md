@@ -14,3 +14,5 @@ Features:
 Gallery: Displays 50 cats at once.Images can be refreshed/reloaded using the pull-down gesture.
 
 FocusMode: View each cat pic in full screen.
+
+Demo_images can be found in the following directory: cats_clear_bank/demo_images
