@@ -2,6 +2,10 @@
 Take home Assignment for clear.bank
 
 The application is built using typescript and react-native. The application uses "https://thecatapi.com" api to fetch cat images.
+Expo framework was used for building and testing the application.
+Device usage:
+
+The testing was only done using the iPad pro and the iPhone 13 pro max. It's possible that the application may not be fully functional using android devcie or web browsers
 
 How to run the application?
 
