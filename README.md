@@ -11,10 +11,14 @@ Later, execute the "yarn start" command in the same directory to start the metro
 
 Features:
 Homepage: welcome page
-<img src="../master/demo_images/homepage.PNG" width="350" title="Homepage">
+<img src="../master/demo_images/homepage.PNG" width="100" title="Homepage">
 
 Gallery: Displays 50 cats at once.Images can be refreshed/reloaded using the pull-down gesture.
 
+<img src="../master/demo_images/gallery.PNG" width="100" title="Gallery">
+
 FocusMode: View each cat pic in full screen.
+
+<img src="../master/demo_images/focus.PNG" width="100" title="Fullscreen">
 
 Demo_images can be found in the following directory: cats_clear_bank/demo_images
