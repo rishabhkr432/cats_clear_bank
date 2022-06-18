@@ -10,7 +10,8 @@ Install dependancies using the following command: "yarn install" in the "/cats_c
 Later, execute the "yarn start" command in the same directory to start the metro bundler.
 
 Features:
-Homepage: welcome page
+Homepage: Welcome page
+
 <img src="../master/demo_images/homepage.PNG" width="100" title="Homepage">
 
 Gallery: Displays 50 cats at once.Images can be refreshed/reloaded using the pull-down gesture.
