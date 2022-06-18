@@ -5,12 +5,14 @@ export default function Home(props: any) {
   return (
     <>
       <ImageBackground
-        source={require("../images/starcraft.jpg")}
+        source={require("../images/cats.webp")}
+        
         style={styles.container}
+        resizeMode="cover"
       >
         <View style={styles.overlayContainer}>
           <View style={styles.top}>
-            <Text style={styles.headerText}>Welcome To Cat's App</Text>
+            <Text style={styles.headerText}>W E L C O M E</Text>
           </View>
           <View style={styles.button}>
             <Button
@@ -27,8 +29,9 @@ export default function Home(props: any) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    width: "100%",
-    height: "100%",
+    width: "auto",
+    height: "auto",
+
   },
   overlayContainer: {
     flex: 1,
