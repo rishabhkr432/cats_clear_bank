@@ -11,7 +11,7 @@ Later, execute the "yarn start" command in the same directory to start the metro
 
 Features:
 Homepage: welcome page
-![Optional Text](../master/demo_images/homepage.PNG)
+<img src="../master/demo_images/homepage.PNG" width="350" title="Homepage">
 
 Gallery: Displays 50 cats at once.Images can be refreshed/reloaded using the pull-down gesture.
 
